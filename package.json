@@ -11,8 +11,8 @@
     "url": "git+https://github.com/NoahSims/HouseCup_WebApp.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Noah Sims",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/NoahSims/HouseCup_WebApp/issues"
   },
